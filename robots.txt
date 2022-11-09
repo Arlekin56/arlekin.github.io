@@ -253,3 +253,5 @@ Disallow: /
 User-agent: Zeus Link Scout
 Disallow: /
 #END OF DOWNLOADERS SECTION
+Sitemap:https://arlekin56.github.io/sitemap.xml
+Sitemap:https://arlekin56.github.io/sitemapimage.xml
