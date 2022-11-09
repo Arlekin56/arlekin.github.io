@@ -36,4 +36,6 @@
 	<lastmod>2022-10-07T13:26:42+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
-</urlset>
+</urlset><?xml version="1.0" encoding="UTF-8"?> <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="https://www.yandex.ru/schemas/sitemap-image/1.1">   <url>     <loc>http://example.com/primer.html</loc>     <image:image>       <image:loc>http://example.com/image.png</image:loc>       <image:geo_location>Карелия</image:geo_location>     </image:image>   </url>  </urlset> 
+ 
+ 
