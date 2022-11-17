@@ -255,3 +255,14 @@ Disallow: /
 #END OF DOWNLOADERS SECTION
 Sitemap:https://arlekin56.github.io/sitemap.xml
 Sitemap:https://arlekin56.github.io/sitemapimage.xml
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:image="https://www.yandex.ru/schemas/sitemap-image/1.1">
+ <url>
+ <loc>http://example.com/primer.html</loc>
+ <image:image>
+ <image:loc>http://example.com/image.png</image:loc>
+ <image:geo_location>Карелия</image:geo_location>
+ </image:image>
+ </url>
+</urlset>
