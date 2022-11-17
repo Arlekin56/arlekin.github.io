@@ -3,7 +3,7 @@ User-agent: *
 Disallow: 
 Crawl-delay: 5
 Disallow: /index11.html
-Sitemap: https://arlekin56.github.io/sitemap.xml
+Sitemap: https://arlekin56.github.io/5230865_8.xml
 
 
 #DISALLOW FOR MAIN SITE DOWNLOADERS SECTION
